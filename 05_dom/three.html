@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Attaching Element using JS</title>
+</head>
+<body style = "background-color: #212121; color : #fff">
+    
+</body>
+<SCRIPT>
+    const div = document.createElement('div');
+    console.log(div);
+    div.className = 'main';
+    div.setAttribute('title','divyank');
+    div.style.backgroundColor = 'purple';
+    div.style.borderRadius = "25px";
+    const addText = document.createTextNode("I am Divyank");
+    div.appendChild(addText);
+    document.body.appendChild(div)
+</SCRIPT>
+</html>
