@@ -1,7 +1,8 @@
 # Projects
 
 ## Project Link
-[Click here] (https://stackblitz.com/edit/dom-project-chaiaurcode-ttcb5f?file=4-GuessTheNumber%2Fchaiaurcode.js,4-GuessTheNumber%2Findex.html)
+[Click here](https://stackblitz.com/edit/dom-project-chaiaurcode-ttcb5f?file=4-GuessTheNumber%2Fchaiaurcode.js,4-GuessTheNumber%2Findex.html)
+
 
 ## Project 1 : Color Changer
 
