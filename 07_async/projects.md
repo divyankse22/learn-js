@@ -1,9 +1,9 @@
-#PROJECTS
+# PROJECTS
 
 ## Project Link
 [Click here](https://stackblitz.com/edit/dom-project-chaiaurcode-ttcb5f?file=4-GuessTheNumber%2Fchaiaurcode.js,4-GuessTheNumber%2Findex.html)
 
----------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
 
 ## Project 5
 
@@ -28,7 +28,7 @@ window.addEventListener('keydown',(e)=>{
   `
 })
 ```
-
+-----------------------------------------------------------------------------------------------------------------
 ## Project 6
 
 ``` javascript
